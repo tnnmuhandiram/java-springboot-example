@@ -1,4 +1,4 @@
-package com.adanyc;
+package com.crud;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,3 +14,5 @@ public class DemoSinBdApplicationTests {
 	}
 
 }
+/*!test
+  */
